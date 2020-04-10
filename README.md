@@ -4,19 +4,24 @@
 
 **Pràctica 1:** Web Scraping
 
-**Descripció:** En aquesta pràctica hem aplicat tècniques de web scraping amb el llenguatge de programació Python per extreure informació d'un llistat de jocs de "Super Nintendo" de la web superfamicom.org i generar un dataset en format .csv.
+**Descripció:** En aquesta pràctica hem aplicat tècniques de web scraping amb el llenguatge de programació Python per extreure informació d'un llistat de jocs de "Super Nintendo" de la web superfamicom.org i generar un dataset en format .csv i imatges dels jocs.
 
 **Alumnes:** David Navarro Brugal i Antoni Llussà Sala
 
 **Fitxers:** 
-·README.md
-·dnavarro30_tonillusa_M2.951_20192_PRA1.pdf
-·pra1.webscraping.ipynb
-·superfamicom.csv
+- README.md
+- dnavarro30_tonillusa_M2.951_20192_PRA1.pdf
+- pra1.webscraping.ipynb
+- superfamicom.csv
+- imgs.zip.001
+- imgs.zip.002
+- imgs.zip.003
+- imgs.zip.004
+- imgs.zip.005
 
 **Recursos:** 
-1.Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-2.Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+2. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 
 
 <a href="https://doi.org/10.5281/zenodo.3746888"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3746888.svg" alt="DOI"></a>
